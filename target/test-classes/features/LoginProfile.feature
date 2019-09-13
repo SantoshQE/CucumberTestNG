@@ -29,4 +29,3 @@ Feature: Login Profile
       |             | 123        | Please enter username.            |
       |             |            | Please enter your credentials.    |
 
-    

@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 213727,
+  "duration": 224595,
   "status": "passed"
 });
 formatter.background({
@@ -41,9 +41,8 @@ formatter.match({
   "location": "StepDefinitions.i_am_on_the_page_on_URL(String,String)"
 });
 formatter.result({
-  "duration": 161971427,
-  "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat stepdefs.StepDefinitions.i_am_on_the_page_on_URL(StepDefinitions.java:15)\r\n\tat ✽.Given I am on the \"Company home\" page on URL \"www.mycomany.com\"(LoginProfile.feature:7)\r\n",
-  "status": "pending"
+  "duration": 262415921,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -55,7 +54,8 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 102033,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 10,
@@ -109,7 +109,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 237273,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -125,7 +126,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 937620,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -137,7 +139,8 @@ formatter.match({
   "location": "StepDefinitions.i_click_on_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 109278,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -153,7 +156,8 @@ formatter.match({
   "location": "StepDefinitions.i_am_on_the_page_on_URL(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 469112,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -165,7 +169,8 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 81506,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -177,10 +182,11 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 1163422,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 158786,
+  "duration": 303081,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -284,7 +290,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 145503,
+  "duration": 48904,
   "status": "passed"
 });
 formatter.background({
@@ -318,9 +324,8 @@ formatter.match({
   "location": "StepDefinitions.i_am_on_the_page_on_URL(String,String)"
 });
 formatter.result({
-  "duration": 444962,
-  "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat stepdefs.StepDefinitions.i_am_on_the_page_on_URL(StepDefinitions.java:15)\r\n\tat ✽.Given I am on the \"Company home\" page on URL \"www.mycomany.com\"(LoginProfile.feature:7)\r\n",
-  "status": "pending"
+  "duration": 179916,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -332,7 +337,8 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 77280,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 25,
@@ -385,7 +391,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 138862,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -401,7 +408,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 111089,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -413,7 +421,8 @@ formatter.match({
   "location": "StepDefinitions.i_click_on_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 89958,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -425,14 +434,15 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 79695,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 48904,
+  "duration": 35621,
   "status": "passed"
 });
 formatter.before({
-  "duration": 50111,
+  "duration": 38639,
   "status": "passed"
 });
 formatter.background({
@@ -466,9 +476,8 @@ formatter.match({
   "location": "StepDefinitions.i_am_on_the_page_on_URL(String,String)"
 });
 formatter.result({
-  "duration": 498091,
-  "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat stepdefs.StepDefinitions.i_am_on_the_page_on_URL(StepDefinitions.java:15)\r\n\tat ✽.Given I am on the \"Company home\" page on URL \"www.mycomany.com\"(LoginProfile.feature:7)\r\n",
-  "status": "pending"
+  "duration": 171464,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -480,7 +489,8 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 78488,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 26,
@@ -533,7 +543,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 127994,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -549,7 +560,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 108071,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -561,7 +573,8 @@ formatter.match({
   "location": "StepDefinitions.i_click_on_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 720875,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -573,14 +586,15 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 108675,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 42262,
+  "duration": 40451,
   "status": "passed"
 });
 formatter.before({
-  "duration": 53130,
+  "duration": 49508,
   "status": "passed"
 });
 formatter.background({
@@ -614,9 +628,8 @@ formatter.match({
   "location": "StepDefinitions.i_am_on_the_page_on_URL(String,String)"
 });
 formatter.result({
-  "duration": 1000409,
-  "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat stepdefs.StepDefinitions.i_am_on_the_page_on_URL(StepDefinitions.java:15)\r\n\tat ✽.Given I am on the \"Company home\" page on URL \"www.mycomany.com\"(LoginProfile.feature:7)\r\n",
-  "status": "pending"
+  "duration": 139466,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -628,7 +641,8 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 82714,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 27,
@@ -681,7 +695,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 112901,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -697,7 +712,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 116523,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -709,7 +725,8 @@ formatter.match({
   "location": "StepDefinitions.i_click_on_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 124372,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -721,14 +738,15 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 101430,
+  "status": "passed"
 });
 formatter.after({
   "duration": 39244,
   "status": "passed"
 });
 formatter.before({
-  "duration": 38036,
+  "duration": 45281,
   "status": "passed"
 });
 formatter.background({
@@ -762,9 +780,8 @@ formatter.match({
   "location": "StepDefinitions.i_am_on_the_page_on_URL(String,String)"
 });
 formatter.result({
-  "duration": 434697,
-  "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat stepdefs.StepDefinitions.i_am_on_the_page_on_URL(StepDefinitions.java:15)\r\n\tat ✽.Given I am on the \"Company home\" page on URL \"www.mycomany.com\"(LoginProfile.feature:7)\r\n",
-  "status": "pending"
+  "duration": 131617,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -776,7 +793,8 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 63997,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 28,
@@ -829,7 +847,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 151540,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -845,7 +864,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 124976,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -857,7 +877,8 @@ formatter.match({
   "location": "StepDefinitions.i_click_on_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 86940,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -869,14 +890,15 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 107467,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 41658,
+  "duration": 39847,
   "status": "passed"
 });
 formatter.before({
-  "duration": 46489,
+  "duration": 53734,
   "status": "passed"
 });
 formatter.background({
@@ -910,9 +932,8 @@ formatter.match({
   "location": "StepDefinitions.i_am_on_the_page_on_URL(String,String)"
 });
 formatter.result({
-  "duration": 461262,
-  "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat stepdefs.StepDefinitions.i_am_on_the_page_on_URL(StepDefinitions.java:15)\r\n\tat ✽.Given I am on the \"Company home\" page on URL \"www.mycomany.com\"(LoginProfile.feature:7)\r\n",
-  "status": "pending"
+  "duration": 958751,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -924,7 +945,8 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 88751,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 29,
@@ -977,7 +999,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 119542,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -993,7 +1016,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 97807,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1005,7 +1029,8 @@ formatter.match({
   "location": "StepDefinitions.i_click_on_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 101430,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1017,14 +1042,15 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 91166,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 89958,
+  "duration": 33206,
   "status": "passed"
 });
 formatter.before({
-  "duration": 57356,
+  "duration": 54337,
   "status": "passed"
 });
 formatter.background({
@@ -1058,9 +1084,8 @@ formatter.match({
   "location": "StepDefinitions.i_am_on_the_page_on_URL(String,String)"
 });
 formatter.result({
-  "duration": 506544,
-  "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat stepdefs.StepDefinitions.i_am_on_the_page_on_URL(StepDefinitions.java:15)\r\n\tat ✽.Given I am on the \"Company home\" page on URL \"www.mycomany.com\"(LoginProfile.feature:7)\r\n",
-  "status": "pending"
+  "duration": 164220,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1072,7 +1097,8 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 82110,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 30,
@@ -1125,7 +1151,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 1036031,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1141,7 +1168,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 173275,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1153,7 +1181,8 @@ formatter.match({
   "location": "StepDefinitions.i_click_on_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 57960,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1165,10 +1194,11 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 108675,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 44677,
+  "duration": 33206,
   "status": "passed"
 });
 formatter.uri("UpdateProfile.feature");
@@ -1180,7 +1210,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 36829,
+  "duration": 39244,
   "status": "passed"
 });
 formatter.background({
@@ -1239,9 +1269,8 @@ formatter.match({
   "location": "StepDefinitions.i_am_on_the_page_on_URL(String,String)"
 });
 formatter.result({
-  "duration": 828341,
-  "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat stepdefs.StepDefinitions.i_am_on_the_page_on_URL(StepDefinitions.java:15)\r\n\tat ✽.Given I am on the \"Company home\" page on URL \"www.mycomany.com\"(UpdateProfile.feature:7)\r\n",
-  "status": "pending"
+  "duration": 159993,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1257,7 +1286,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 99014,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1273,7 +1303,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 804795,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1285,7 +1316,8 @@ formatter.match({
   "location": "StepDefinitions.i_click_on_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 300063,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1301,7 +1333,8 @@ formatter.match({
   "location": "StepDefinitions.i_am_on_the_page_on_URL(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 107467,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1313,7 +1346,8 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 92373,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1325,7 +1359,8 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 74865,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 15,
@@ -1365,7 +1400,8 @@ formatter.match({
   "location": "StepDefinitions.i_click_on_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 100826,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1381,7 +1417,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 163616,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1393,7 +1430,8 @@ formatter.match({
   "location": "StepDefinitions.i_click_on_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 131617,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1405,10 +1443,11 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 812645,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 37432,
+  "duration": 32603,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -1495,7 +1534,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 489638,
+  "duration": 43470,
   "status": "passed"
 });
 formatter.background({
@@ -1554,9 +1593,8 @@ formatter.match({
   "location": "StepDefinitions.i_am_on_the_page_on_URL(String,String)"
 });
 formatter.result({
-  "duration": 405718,
-  "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat stepdefs.StepDefinitions.i_am_on_the_page_on_URL(StepDefinitions.java:15)\r\n\tat ✽.Given I am on the \"Company home\" page on URL \"www.mycomany.com\"(UpdateProfile.feature:7)\r\n",
-  "status": "pending"
+  "duration": 146107,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1572,7 +1610,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 127994,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1588,7 +1627,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 109882,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1600,7 +1640,8 @@ formatter.match({
   "location": "StepDefinitions.i_click_on_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 62187,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1616,7 +1657,8 @@ formatter.match({
   "location": "StepDefinitions.i_am_on_the_page_on_URL(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 100222,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1628,7 +1670,8 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 74864,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1640,7 +1683,8 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 68827,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 30,
@@ -1699,7 +1743,8 @@ formatter.match({
   "location": "StepDefinitions.i_click_on_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 89958,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1715,7 +1760,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 114108,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1731,7 +1777,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 104448,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1747,7 +1794,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 655066,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1759,7 +1807,8 @@ formatter.match({
   "location": "StepDefinitions.i_click_on_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 86939,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1771,14 +1820,15 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 82714,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 158785,
+  "duration": 39847,
   "status": "passed"
 });
 formatter.before({
-  "duration": 147918,
+  "duration": 42262,
   "status": "passed"
 });
 formatter.background({
@@ -1837,9 +1887,8 @@ formatter.match({
   "location": "StepDefinitions.i_am_on_the_page_on_URL(String,String)"
 });
 formatter.result({
-  "duration": 993163,
-  "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat stepdefs.StepDefinitions.i_am_on_the_page_on_URL(StepDefinitions.java:15)\r\n\tat ✽.Given I am on the \"Company home\" page on URL \"www.mycomany.com\"(UpdateProfile.feature:7)\r\n",
-  "status": "pending"
+  "duration": 140069,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1855,7 +1904,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 92373,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1871,7 +1921,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 94184,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1883,7 +1934,8 @@ formatter.match({
   "location": "StepDefinitions.i_click_on_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 60978,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1899,7 +1951,8 @@ formatter.match({
   "location": "StepDefinitions.i_am_on_the_page_on_URL(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 86939,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1911,7 +1964,8 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 67620,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1923,7 +1977,8 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 54941,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 31,
@@ -1982,7 +2037,8 @@ formatter.match({
   "location": "StepDefinitions.i_click_on_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 95392,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -1998,7 +2054,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 122561,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -2014,7 +2071,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 131013,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -2030,7 +2088,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 79091,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -2042,7 +2101,8 @@ formatter.match({
   "location": "StepDefinitions.i_click_on_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 684650,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -2054,14 +2114,15 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 72450,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 67619,
+  "duration": 42866,
   "status": "passed"
 });
 formatter.before({
-  "duration": 82109,
+  "duration": 44073,
   "status": "passed"
 });
 formatter.background({
@@ -2120,9 +2181,8 @@ formatter.match({
   "location": "StepDefinitions.i_am_on_the_page_on_URL(String,String)"
 });
 formatter.result({
-  "duration": 2542379,
-  "error_message": "cucumber.api.PendingException: TODO: implement me\r\n\tat stepdefs.StepDefinitions.i_am_on_the_page_on_URL(StepDefinitions.java:15)\r\n\tat ✽.Given I am on the \"Company home\" page on URL \"www.mycomany.com\"(UpdateProfile.feature:7)\r\n",
-  "status": "pending"
+  "duration": 131617,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -2138,7 +2198,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 80902,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -2154,7 +2215,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 149126,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -2166,7 +2228,8 @@ formatter.match({
   "location": "StepDefinitions.i_click_on_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 98410,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -2182,7 +2245,8 @@ formatter.match({
   "location": "StepDefinitions.i_am_on_the_page_on_URL(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 799362,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -2194,7 +2258,8 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 131617,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -2206,7 +2271,8 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 63393,
+  "status": "passed"
 });
 formatter.scenario({
   "line": 32,
@@ -2265,7 +2331,8 @@ formatter.match({
   "location": "StepDefinitions.i_click_on_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 98411,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -2281,7 +2348,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 100826,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -2297,7 +2365,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 112901,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -2313,7 +2382,8 @@ formatter.match({
   "location": "StepDefinitions.i_fill_in_with(String,String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 107467,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -2325,7 +2395,8 @@ formatter.match({
   "location": "StepDefinitions.i_click_on_the_button(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 82110,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -2337,10 +2408,11 @@ formatter.match({
   "location": "StepDefinitions.i_should_see_message(String)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 56148,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 50111,
+  "duration": 48904,
   "status": "passed"
 });
 });
